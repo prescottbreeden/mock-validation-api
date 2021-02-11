@@ -5,4 +5,4 @@ runs on port 5000
 
 `yarn` or `npm i`
 
-`yarn nodemon index.js` or `npm run nodemon index.js`
+`yarn start` or `npm run start`
